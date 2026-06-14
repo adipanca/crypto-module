@@ -1,0 +1,6 @@
+operation,iterations,total_ms,avg_us,ops_per_sec,status
+ecc_keygen_p256,2000,22.058000,11.029000,90670.051682,PASS
+ecc_scalar_mul_p256,2000,67.358000,33.679000,29692.092996,PASS
+kem_keygen_mlkem768,500,13.954000,27.908000,35832.019493,PASS
+kem_encaps_mlkem768,500,9.636000,19.272000,51888.750519,PASS
+kem_decaps_mlkem768,500,14.349000,28.698000,34845.633842,PASS
